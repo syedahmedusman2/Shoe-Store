@@ -1,0 +1,31 @@
+.div-product{
+    display: inline-flex;
+    padding: 5px ;
+    margin: 5px;
+    padding-bottom: 10px;
+     /* background-color: transparent; */
+    /* background-color: tomato;  */
+    /* background-color: thistle;
+     */
+    width: 100%;
+    height: 100%;
+    border: none;
+    
+    /* background-color: yellow; */
+}
+
+.cont{
+    justify-content: end;
+    /* width: 100%; */
+    /* background-color: transparent; */
+}
+
+.Link{
+    background-color: transparent;
+    width: 100%; 
+    
+}
+
+.Boot{
+    color: black;
+}

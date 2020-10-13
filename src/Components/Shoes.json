@@ -1,0 +1,60 @@
+{
+  "air-jordan-3-valor-blue": {
+    "name": "VALOUR BLUE",
+    "img":
+      "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+    "details": "Nodding to a special edition created for athletes at MJ's alma mater, this release comes dressed in white with accents of Valour Blue. Elephant print and a stitched tag on the insole pay homage to MJ for paving the way.",
+    "price": "$175"   
+      
+  },
+  "jordan-mars-270-london": {
+    "name": "JORDAN MARS 270 LONDON",
+    "img":
+      "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+      "details": "Imagine a heavy dose of Jordan heritage, a huge Air Max unit and a lightweight, springy foam, and you're somewhere close. The Jordan Mars 270 London boasts a mesh grid inspired by MJ's first global release and a soft leather overlay for added durability—while a special LDN hangtag finishes things off in defiant style.",
+      "price": "$160"
+  },
+  "air-jordan-1-zoom-racer-blue": {
+    "name": "RACER BLUE",
+    "img":
+      "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+    "details": "The Air Jordan 1 High Zoom 'Racer Blue' updates the iconic silhouette with full-length Zoom Air cushioning and transparent detailing. The latter takes the form of clear overlays on the sneaker's heel panel and collar flaps, embellished with a Jordan Wings logo on the lateral side." , 
+    "price": "$175"  
+  },
+  "shoes15":{
+    "name": "Nike Air Yeezy",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/554844a5-48ff-48f3-ae14-be936430a57b/pegasus-trail-2-running-shoe-PN1K6x.jpg",
+    "details": "",
+    "price": "$243"
+},
+
+"shoes16":{
+    "name": "Nike Air Yeezy 2",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/77d2e347-7c75-482d-a0e9-419ce78a8ff6/jordan-crater-shoe-ggBWqK.jpg",
+    "details": "The Nike Air Yeezy is an official sneakers collaboration project between Nike and Kanye West, launched in 2009. Notable as the shoe brand's first non-athlete full collaboration, the project has released two editions: the Air Yeezy (2009) and the Air Yeezy II (2012 and 2014).",
+    "price": "$167"
+},
+
+"shoes17":{
+    "name": "Nike Cortez 2",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/54fe4a75-de7a-4ea5-9e52-ddc80c19161d/jordan-react-elevation-basketball-shoe-3MNcdW.jpg",
+    "details": "The Nike Air Yeezy 2 was the second and final sneaker designed by Kanye West for Nike. They were originally released in two colorways in 2012, followed by the infamous Red October edition in February of 2014. They feature a mid-foot strap along with design elements from the Nike Tech Challenge line.",
+    "price": "$190"
+},
+
+"shoes18":{
+    "name": "Nike Air Jordan 2",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/02d1ab72-232b-4392-aeff-835018f26c2c/react-vision-shoe-mhp2XD.jpg",
+    "details": "Originally released in 1987, the Air Jordan 2 was designed by Bruce Kilgore. The sneakers were made in Italy, providing a premium feel to them. They released in two colorways, available in high and low top. In 1994 they were retroed for the first time, one colorway was released in high and low.",
+    "price": "$165"
+},
+
+"shoes19":{
+    "name": "Nike Mars Yard",
+    "img": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/uirypqqxq83mwcjbf9ej/air-monarch-iv-training-shoe-H3PpZ9.jpg",
+    "details": "These shoes are built to support the bodies of the strongest minds in the aerospace industry. ... Special features include: outsoles borrowed from the NIKE special forces boot (SFB), vectran fabric from the Mars Excursion Rover airbags, and detailing from Apollo Lunar Overshoes.",
+    "price": "$175"
+}
+
+}
+

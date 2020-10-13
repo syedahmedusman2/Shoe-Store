@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  background-image: url(./Components/image/foot2.jpg);
+  height: 100%;
+  width: 100%;
+
+}
+
+.container{
+}
+
+.productContainer{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.productContainer> .link{
+  width: 300px;
+  text-align: center;
+  /* align-items: center; */
+  box-shadow:0 0 10px grey;
+  margin: 10px;
+}
+
+.productContainer > .link:hover{
+  background-color: lightgray;
+}
+
+.Link{
+  /* background-color:white; */
+  color: black;
+  font-size: larger;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 100%;
+  
+  
+}
